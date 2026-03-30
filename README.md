@@ -1,13 +1,13 @@
 # hey, i'm mckenna 👋
 
-CS student at **DePaul** who loves turning ideas into things that actually work. I'm drawn to the frontend but I've got the backend chops to back it up — and I've got a soft spot for data and ML too. Always down to build something cool.
+CS student at **DePaul** who loves turning ideas into things that actually work. I'm drawn to the frontend but I've got the backend chops to back it up. Always down to build something cool.
 
 ---
 
 ## 🎓 education
 
 **DePaul University**
-B.S. in Software Development — Expected 2026
+B.S. in Software Development — Expected June 2026
 
 ---
 
@@ -46,14 +46,14 @@ B.S. in Software Development — Expected 2026
 
 - 🏒 Huge Blackhawks fan — yes, even through the rebuilding years, loyalty is loyalty
 - 🍰 I bake and cook for fun — if you need a cookie recipe recommendation I'm your person
-- 🎮 Gamer when I'm not coding (or baking... or watching hockey)
+- 🎮 I love playing video games — a completion run hates to see me coming
 - ☕ Firmly believes that good food and good code require the same amount of patience
 
 ---
 
 ## 📬 let's connect
 
-Always happy to chat about projects, internships, or trade cookie recipes.
+Always happy to chat about projects, career opportunities, or trade cookie recipes.
 
 [![Email](https://img.shields.io/badge/-mckennamullane5@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mckennamullane5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-McKenna%20Mullane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mckennamullane)
