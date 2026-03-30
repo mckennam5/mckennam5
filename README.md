@@ -52,7 +52,7 @@ B.S. in Software Development — Expected June 2026
 
 ## 📬 let's connect
 
-Always happy to chat about projects, career opportunities, or trade cookie recipes.
+Always happy to chat about projects, or career opportunities.
 
 [![Email](https://img.shields.io/badge/-mckennamullane5@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mckennamullane5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-McKenna%20Mullane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mckennamullane)
