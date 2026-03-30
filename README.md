@@ -45,7 +45,7 @@ B.S. in Software Development — Expected June 2026
 ## 🙋 get to know me
 
 - 🏒 Huge Blackhawks fan — yes, even through the rebuilding years, loyalty is loyalty
-- 🍰 I bake and cook for fun — if you need a cookie recipe recommendation I'm your person
+- 🍰 I bake and cook for fun — if you need a cookie recipe recommendation I'm your girl
 - 🎮 I love playing video games — a completion run hates to see me coming
   
 ---
